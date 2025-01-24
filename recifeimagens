@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pontos Turísticos - Recife Antigo</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Pontos Turísticos do Recife Antigo</h1>
+        <p>Conheça mais sobre os incríveis pontos turísticos do Recife Antigo e aproveite para explorar sua história e cultura.</p>
+        <nav>
+            <a href="index.html">Voltar ao Marco Zero</a>
+        </nav>
+    </header>
+
+    <main>
+        <section id="parque-das-esculturas">
+            <h2>Parque das Esculturas Francisco Brennand</h2>
+            <p>Localizado próximo ao Marco Zero, o Parque das Esculturas é um museu a céu aberto com mais de 90 esculturas do renomado artista Francisco Brennand. O destaque vai para a Coluna de Cristal, uma obra de 32 metros de altura.</p>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Parque_das_Esculturas_Recife.jpg" alt="Vista do Parque das Esculturas Francisco Brennand">
+        </section>
+
+        <section id="rua-do-bom-jesus">
+            <h2>Rua do Bom Jesus</h2>
+            <p>Considerada uma das ruas mais bonitas do mundo, a Rua do Bom Jesus encanta com suas casas coloridas e sua história. Ela abriga a primeira sinagoga das Américas, a Kahal Zur Israel, além de diversos bares e galerias de arte.</p>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/7/72/Rua_do_Bom_Jesus_Recife.jpg" alt="Vista da Rua do Bom Jesus no Recife Antigo">
+        </section>
+    </main>
+
+    <footer>
+        <p>© 2025 Descubra Recife. Todos os direitos reservados.</p>
+        <p>Siga-nos nas redes sociais: Facebook | Instagram | Twitter</p>
+    </footer>
+</body>
+</html>
