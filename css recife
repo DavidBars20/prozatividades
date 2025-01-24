@@ -1,0 +1,99 @@
+/* Estilos gerais */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f9fa;
+    color: #333;
+    line-height: 1.6;
+}
+
+h1, h2 {
+    color: #004d61;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+/* Cabeçalho */
+header {
+    background: linear-gradient(to right, #00a5cf, #004d61);
+    color: white;
+    text-align: center;
+    padding: 1.5rem 1rem;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2.5rem;
+}
+
+header p {
+    margin: 0.5rem 0 0;
+    font-size: 1.2rem;
+}
+
+/* Conteúdo principal */
+main {
+    padding: 2rem 1rem;
+}
+
+section {
+    margin-bottom: 2rem;
+}
+
+#sobre-marco-zero, #atracoes, #curiosidades {
+    background: #ffffff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 1.5rem;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+#atracoes ul {
+    list-style: none;
+    padding: 0;
+}
+
+#atracoes li {
+    margin-bottom: 0.5rem;
+}
+
+#atracoes li strong {
+    color: #004d61;
+}
+
+mark {
+    background-color: #ffdd57;
+    color: #333;
+    padding: 0 0.2rem;
+    border-radius: 4px;
+}
+
+/* Rodapé */
+footer {
+    background: #004d61;
+    color: white;
+    text-align: center;
+    padding: 1rem 0;
+    margin-top: 2rem;
+}
+
+footer p {
+    margin: 0.5rem 0;
+    font-size: 0.9rem;
+}
+
+/* Responsividade */
+@media (min-width: 768px) {
+    main {
+        padding: 2rem 4rem;
+    }
+
+    section {
+        margin-bottom: 3rem;
+    }
+}
