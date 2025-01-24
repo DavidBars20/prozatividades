@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lugares Turísticos na Europa</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Descubra os Encantos da Europa</h1>
+        <p>Explore os destinos mais fascinantes do continente europeu e planeje sua próxima aventura.</p>
+    </header>
+
+    <main>
+        <section id="destinos-populares">
+            <h2>Destinos Populares</h2>
+            <div class="cards-container">
+                <div class="card">
+                    <img src="imagem-paris.jpg" alt="Imagem da Torre Eiffel em Paris">
+                    <h3>Paris, França</h3>
+                    <p>A cidade luz é famosa por sua história, cultura e, claro, a icônica Torre Eiffel.</p>
+                </div>
+
+                <div class="card">
+                    <img src="imagem-roma.jpg" alt="Imagem do Coliseu em Roma">
+                    <h3>Roma, Itália</h3>
+                    <p>Conheça a Cidade Eterna e explore suas ruínas históricas como o Coliseu e o Fórum Romano.</p>
+                </div>
+
+                <div class="card">
+                    <img src="imagem-londres.jpg" alt="Imagem do Big Ben em Londres">
+                    <h3>Londres, Reino Unido</h3>
+                    <p>Descubra a vibrante capital britânica com seus marcos icônicos como o Big Ben e a Tower Bridge.</p>
+                </div>
+            </div>
+        </section>
+
+        <section id="experiencias">
+            <h2>Experiências Imperdíveis</h2>
+            <ul>
+                <li>Saboreie a gastronomia francesa nos cafés parisienses.</li>
+                <li>Assista a um espetáculo de ópera em Viena, Áustria.</li>
+                <li>Viaje pelos canais de Amsterdã, Holanda, de bicicleta.</li>
+                <li>Aprecie as auroras boreais na Noruega.</li>
+            </ul>
+        </section>
+
+        <section id="galeria">
+            <h2>Galeria de Imagens</h2>
+            <div class="galeria-container">
+                <img src="imagem-veneza.jpg" alt="Canais de Veneza">
+                <img src="imagem-barcelona.jpg" alt="Sagrada Família em Barcelona">
+                <img src="imagem-praga.jpg" alt="Castelo de Praga">
+            </div>
+        </section>
+
+        <section id="dicas">
+            <h2>Dicas para Planejar Sua Viagem</h2>
+            <p>Planejar uma viagem à Europa pode ser mais fácil com as dicas certas. Confira algumas sugestões para aproveitar ao máximo sua experiência:</p>
+            <ol>
+                <li>Pesquise sobre a cultura e as tradições de cada destino.</li>
+                <li>Faça um roteiro com base nas atrações mais próximas umas das outras.</li>
+                <li>Considere visitar cidades menores para uma experiência mais autêntica.</li>
+                <li>Verifique a melhor época para viajar, dependendo do clima e eventos locais.</li>
+            </ol>
+        </section>
+    </main>
+
+    <footer>
+        <p>© 2025 Descubra a Europa. Todos os direitos reservados.</p>
+        <p>Siga-nos nas redes sociais: Facebook | Instagram | Twitter</p>
+    </footer>
+</body>
+</html>
