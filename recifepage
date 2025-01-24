@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Marco Zero - Recife</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Marco Zero - Recife</h1>
+        <p>Um dos pontos turísticos mais emblemáticos da capital pernambucana.</p>
+    </header>
+
+    <main>
+        <section id="sobre-marco-zero">
+            <h2>Sobre o Marco Zero</h2>
+            <p><strong>Localizado no coração do Recife</strong>, o Marco Zero é um dos lugares mais visitados por turistas e moradores locais. Ele marca o ponto inicial das estradas que partem da cidade e possui uma <em>vista deslumbrante</em> para o Rio Capibaribe e o Parque das Esculturas de Francisco Brennand.</p>
+            <img src="imagem-marco-zero.jpg" alt="Imagem do Marco Zero em Recife" />
+        </section>
+
+        <section id="atracoes">
+            <h2>Atrações Próximas</h2>
+            <ul>
+                <li><strong>Parque das Esculturas:</strong> Um espaço ao ar livre com obras do renomado artista Francisco Brennand.</li>
+                <li><strong>Recife Antigo:</strong> Um bairro histórico repleto de cultura, música e gastronomia.</li>
+                <li><strong>Feiras de Artesanato:</strong> Encontre lembranças únicas da cultura pernambucana.</li>
+            </ul>
+            <img src="imagem-parque-esculturas.jpg" alt="Parque das Esculturas visto do Marco Zero" />
+        </section>
+
+        <section id="curiosidades">
+            <h2>Curiosidades</h2>
+            <p>O Marco Zero também é palco de grandes eventos, como o <mark>Carnaval do Recife</mark>, famoso por sua diversidade cultural e alegria contagiante. Além disso, a praça conta com um piso em mosaico que representa a Rosa dos Ventos, um trabalho do artista plástico Cícero Dias.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>© 2025 Visite o Recife. Todos os direitos reservados.</p>
+        <p>Siga-nos nas redes sociais: Facebook | Instagram | Twitter</p>
+    </footer>
+</body>
+</html>
